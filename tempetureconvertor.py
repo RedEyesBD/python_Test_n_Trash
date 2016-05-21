@@ -1,4 +1,5 @@
 #Fahrenheit to Celsus  and Kelvin Convertor
+#Author: Jose Garcia -2.9.12.12 19.1.25.19 8.5.12.12.15!
 
 def f2cConveror (t):
 	#print "Converting %.2f Fahrenheit to Celsus" % t
